@@ -40,8 +40,7 @@ It provides a clean and functional user interface designed for simple calculatio
 
 ## Screenshot
 
-
-
+![Calculator](https://github.com/user-attachments/assets/910be644-0afa-412e-ac2b-c4995436f723)
 
 ---
 
